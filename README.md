@@ -1,1 +1,2 @@
-# csd-310
+# csd-310 - Database Development and Use
+The concepts of relational and non-relational database structures will be introduced. Key/value pairs will be defined, building table structures, manipulating records, using data types, and implementing access controls. The Structured Query Language (SQL) will be used to manipulate the models. Small application using a relational database management system will be prepared.
